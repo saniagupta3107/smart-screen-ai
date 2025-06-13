@@ -1,0 +1,1525 @@
+record_id,reason_and_factors,cessation_year
+1.0,Ill Health Retirement,08/2012
+2.0,Voluntary Early Retirement (VER),08/2012
+3.0,Voluntary Early Retirement (VER),05/2012
+4.0,Resignation-Other reasons,05/2012
+5.0,Age Retirement,05/2012
+6.0,Resignation-Other reasons,05/2012
+7.0,Age Retirement,05/2012
+8.0,Age Retirement,05/2012
+9.0,Resignation-Other reasons,07/2012
+10.0,Resignation-Other employer,2012
+11.0,Age Retirement,2012
+12.0,Resignation-Move overseas/interstate,2012
+13.0,Resignation-Other reasons,2012
+14.0,Age Retirement,2012
+15.0,Resignation-Other employer,2012
+16.0,Voluntary Early Retirement (VER),2012
+17.0,Resignation-Other reasons,2012
+18.0,Age Retirement,2012
+19.0,Age Retirement,2012
+20.0,Age Retirement,2012
+21.0,Resignation-Other employer,2012
+22.0,Resignation-Other reasons,2012
+23.0,Resignation-Other reasons,2012
+24.0,Resignation-Other reasons,2012
+25.0,Age Retirement,2012
+26.0,Resignation-Other reasons,2012
+27.0,Age Retirement,2012
+28.0,Resignation-Other employer,2012
+29.0,Age Retirement,2012
+30.0,Age Retirement,2012
+31.0,Age Retirement,2012
+32.0,Age Retirement,2012
+33.0,Age Retirement,2012
+34.0,Resignation-Other reasons,2012
+35.0,Resignation-Other reasons,2012
+36.0,Ill Health Retirement,2012
+37.0,Age Retirement,2012
+38.0,Resignation-Other reasons,2012
+39.0,Other,2012
+40.0,Resignation-Move overseas/interstate,2012
+41.0,Resignation-Other employer,2012
+42.0,Resignation-Other reasons,2012
+43.0,Resignation-Move overseas/interstate,2012
+44.0,Resignation-Other reasons,2012
+45.0,Age Retirement,2012
+46.0,Voluntary Early Retirement (VER),2012
+47.0,Voluntary Early Retirement (VER),2012
+48.0,Age Retirement,2012
+49.0,Resignation-Move overseas/interstate,2012
+50.0,Age Retirement,2012
+51.0,Resignation-Move overseas/interstate,2012
+52.0,Resignation-Other reasons,2012
+53.0,Other,2012
+54.0,Ill Health Retirement,2012
+55.0,Age Retirement,2012
+56.0,Resignation-Other employer,2012
+57.0,Age Retirement,2012
+58.0,Resignation-Other employer,2012
+59.0,Ill Health Retirement,2012
+60.0,Age Retirement,2012
+61.0,Age Retirement,2012
+62.0,Resignation-Other reasons,2012
+63.0,Age Retirement,2012
+64.0,Ill Health Retirement,2012
+65.0,Age Retirement,2012
+66.0,Age Retirement,2012
+67.0,Other,2012
+68.0,Other,2012
+69.0,Age Retirement,2012
+70.0,Resignation-Other reasons,2012
+71.0,Age Retirement,2012
+72.0,Resignation-Other reasons,2012
+73.0,Age Retirement,2012
+74.0,Contract Expired,2012
+75.0,Age Retirement,2012
+76.0,Contract Expired,2012
+77.0,Ill Health Retirement,2012
+78.0,Termination,2012
+79.0,Contract Expired,2012
+80.0,Termination,2012
+81.0,Contract Expired,2012
+82.0,Contract Expired,2012
+83.0,Voluntary Early Retirement (VER),2012
+84.0,Contract Expired,2012
+85.0,Termination,2012
+86.0,Age Retirement,2012
+87.0,Termination,2012
+88.0,Resignation-Move overseas/interstate,2012
+89.0,Termination,2012
+90.0,Age Retirement,2013
+91.0,Resignation-Other employer,2012
+92.0,Age Retirement,2012
+93.0,Age Retirement,2012
+94.0,Resignation-Move overseas/interstate,2012
+95.0,Voluntary Early Retirement (VER),2012
+96.0,Age Retirement,2012
+97.0,Age Retirement,2012
+98.0,Age Retirement,2012
+99.0,Age Retirement,2012
+100.0,Resignation-Move overseas/interstate,2012
+101.0,Resignation-Other reasons,2012
+102.0,Age Retirement,2012
+103.0,Resignation-Other reasons,2012
+104.0,Resignation-Other reasons,2012
+105.0,Age Retirement,2012
+106.0,Age Retirement,2012
+107.0,Resignation-Other reasons,2012
+108.0,Ill Health Retirement,2012
+109.0,Resignation-Other reasons,2012
+110.0,Age Retirement,2012
+111.0,Ill Health Retirement,2012
+112.0,Resignation-Other reasons,2012
+113.0,Resignation-Other reasons,2012
+114.0,Age Retirement,2012
+115.0,Resignation-Move overseas/interstate,2012
+116.0,Age Retirement,2012
+117.0,Resignation-Other reasons,2012
+118.0,Ill Health Retirement,2012
+119.0,Resignation-Other employer,2012
+120.0,Contract Expired,2012
+121.0,Termination,2012
+122.0,Contract Expired,2012
+123.0,Age Retirement,2012
+124.0,Ill Health Retirement,2012
+125.0,Resignation-Other employer,2012
+126.0,Age Retirement,2012
+127.0,Resignation-Other reasons,2012
+128.0,Age Retirement,2013
+129.0,Age Retirement,2012
+130.0,Voluntary Early Retirement (VER),2012
+131.0,Resignation-Other employer,2012
+132.0,Age Retirement,2012
+133.0,Resignation-Other reasons,2012
+134.0,Age Retirement,2012
+135.0,Voluntary Early Retirement (VER),2012
+136.0,Resignation-Other reasons,2012
+137.0,Ill Health Retirement,2012
+138.0,Age Retirement,2012
+139.0,Resignation-Other employer,2012
+140.0,Ill Health Retirement,2012
+141.0,Resignation-Other employer,2012
+142.0,Age Retirement,2012
+143.0,Ill Health Retirement,2012
+144.0,Ill Health Retirement,2012
+145.0,Age Retirement,2012
+146.0,Resignation-Other reasons,2012
+147.0,Age Retirement,2012
+148.0,Resignation-Other employer,2012
+149.0,Age Retirement,2012
+150.0,Other,2012
+151.0,Termination,2012
+152.0,Age Retirement,2012
+153.0,Other,2012
+154.0,Termination,2012
+155.0,Voluntary Early Retirement (VER),2012
+156.0,Voluntary Early Retirement (VER),2012
+157.0,Other,2012
+158.0,Other,2012
+159.0,Resignation-Other employer,2012
+160.0,Age Retirement,2012
+161.0,Resignation-Other reasons,2012
+162.0,Voluntary Early Retirement (VER),2012
+163.0,Other,2012
+164.0,Voluntary Early Retirement (VER),2012
+165.0,Resignation-Other employer,2012
+166.0,Voluntary Early Retirement (VER),2012
+167.0,Other,2012
+168.0,Other,2012
+169.0,Other,2012
+170.0,Ill Health Retirement,2012
+171.0,Other,2012
+172.0,Voluntary Early Retirement (VER),2012
+173.0,Other,2012
+174.0,Other,2012
+175.0,Voluntary Early Retirement (VER),2012
+176.0,Voluntary Early Retirement (VER),2012
+177.0,Voluntary Early Retirement (VER),2012
+178.0,Voluntary Early Retirement (VER),2012
+179.0,Voluntary Early Retirement (VER),2012
+180.0,Resignation-Other reasons,2012
+181.0,Voluntary Early Retirement (VER),2012
+182.0,Voluntary Early Retirement (VER),2012
+183.0,Other,2012
+184.0,Resignation-Other reasons,2012
+185.0,Other,2012
+186.0,Resignation-Other reasons,2012
+187.0,Other,2012
+188.0,Voluntary Early Retirement (VER),2012
+189.0,Other,2012
+190.0,Resignation-Other employer,2012
+191.0,Voluntary Early Retirement (VER),2012
+192.0,Other,2012
+193.0,Resignation-Other reasons,2012
+194.0,Voluntary Early Retirement (VER),2012
+195.0,Age Retirement,2013
+196.0,Resignation-Other employer,2012
+197.0,Resignation-Other reasons,2012
+198.0,Resignation-Other employer,2012
+199.0,Ill Health Retirement,2012
+200.0,Age Retirement,2012
+201.0,Voluntary Early Retirement (VER),2012
+202.0,Voluntary Early Retirement (VER),2012
+203.0,Ill Health Retirement,2012
+204.0,Other,2012
+205.0,Resignation-Other employer,2012
+206.0,Resignation-Other reasons,2012
+207.0,Termination,2012
+208.0,Ill Health Retirement,2012
+209.0,Age Retirement,2012
+210.0,Ill Health Retirement,2012
+211.0,Resignation-Move overseas/interstate,2012
+212.0,Voluntary Early Retirement (VER),2012
+213.0,Resignation-Other reasons,2012
+214.0,Other,2012
+215.0,Resignation-Other reasons,2012
+216.0,Termination,2012
+217.0,Age Retirement,2013
+218.0,Voluntary Early Retirement (VER),2013
+219.0,Age Retirement,2012
+220.0,Age Retirement,2012
+221.0,Ill Health Retirement,2012
+222.0,Age Retirement,2012
+223.0,Contract Expired,2012
+224.0,Resignation-Other reasons,2012
+225.0,Resignation-Other reasons,2012
+226.0,Age Retirement,2012
+227.0,Contract Expired,2012
+228.0,Voluntary Early Retirement (VER),2012
+229.0,Resignation-Other reasons,2012
+230.0,Age Retirement,2012
+231.0,Voluntary Early Retirement (VER),2012
+232.0,Voluntary Early Retirement (VER),2012
+233.0,Other,2012
+234.0,Voluntary Early Retirement (VER),2012
+235.0,Age Retirement,2012
+236.0,Resignation-Move overseas/interstate,2012
+237.0,Age Retirement,2012
+238.0,Age Retirement,2012
+239.0,Voluntary Early Retirement (VER),2012
+240.0,Age Retirement,2012
+241.0,Age Retirement,2013
+242.0,Ill Health Retirement,2012
+243.0,Age Retirement,2013
+244.0,Age Retirement,2012
+245.0,Voluntary Early Retirement (VER),2012
+246.0,Voluntary Early Retirement (VER),2012
+247.0,Voluntary Early Retirement (VER),2012
+248.0,Resignation-Move overseas/interstate,2013
+249.0,Resignation-Move overseas/interstate,2012
+250.0,Contract Expired,2012
+251.0,Resignation-Other reasons,2013
+252.0,Age Retirement,2012
+253.0,Age Retirement,2012
+254.0,Age Retirement,2012
+255.0,Resignation-Other reasons,2012
+256.0,Resignation-Other employer,2012
+257.0,Resignation-Move overseas/interstate,2012
+258.0,Resignation-Other reasons,2012
+259.0,Resignation-Other employer,2012
+260.0,Resignation-Move overseas/interstate,2012
+261.0,Age Retirement,2012
+262.0,Ill Health Retirement,2012
+263.0,Resignation-Move overseas/interstate,2013
+264.0,Resignation-Move overseas/interstate,2013
+265.0,Resignation-Other reasons,2012
+266.0,Age Retirement,2012
+267.0,Age Retirement,2013
+268.0,Resignation-Other employer,2012
+269.0,Resignation-Move overseas/interstate,2012
+270.0,Resignation-Other reasons,2012
+271.0,Age Retirement,2012
+272.0,Termination,2012
+273.0,Ill Health Retirement,2012
+274.0,Resignation-Other reasons,2012
+275.0,Resignation-Other employer,2013
+276.0,Other,2012
+277.0,Age Retirement,2012
+278.0,Voluntary Early Retirement (VER),2012
+279.0,Voluntary Early Retirement (VER),2012
+280.0,Resignation-Other reasons,2012
+281.0,Age Retirement,2012
+282.0,Age Retirement,2013
+283.0,Voluntary Early Retirement (VER),2012
+284.0,Resignation-Other employer,2012
+285.0,Resignation-Other employer,2012
+286.0,Resignation-Move overseas/interstate,2012
+287.0,Resignation-Other employer,2012
+288.0,Age Retirement,2012
+289.0,Resignation-Move overseas/interstate,2013
+290.0,Age Retirement,2012
+291.0,Age Retirement,2013
+292.0,Resignation-Other employer,2013
+293.0,Age Retirement,2013
+294.0,Resignation-Move overseas/interstate,2012
+295.0,Voluntary Early Retirement (VER),2013
+296.0,Resignation-Move overseas/interstate,2012
+297.0,Resignation-Other employer,2012
+298.0,Age Retirement,2012
+299.0,Other,2013
+300.0,Age Retirement,2012
+301.0,Resignation-Move overseas/interstate,2012
+302.0,Resignation-Other employer,2012
+303.0,Age Retirement,2013
+304.0,Resignation-Other reasons,2012
+305.0,Resignation-Other employer,2013
+306.0,Contract Expired,2012
+307.0,Contract Expired,2012
+308.0,Age Retirement,2012
+309.0,Age Retirement,2013
+310.0,Age Retirement,2012
+311.0,Age Retirement,2013
+312.0,Resignation-Other employer,2013
+313.0,Resignation-Other reasons,2013
+314.0,Age Retirement,2013
+315.0,Resignation-Other employer,2013
+316.0,Other,2012
+317.0,Age Retirement,2012
+318.0,Resignation-Other employer,2012
+319.0,Resignation-Other reasons,2012
+320.0,Age Retirement,2013
+321.0,Resignation-Other reasons,2012
+322.0,Age Retirement,2013
+323.0,Resignation-Other employer,2013
+324.0,Voluntary Early Retirement (VER),2012
+325.0,Resignation-Other reasons,2012
+326.0,Resignation-Other employer,2012
+327.0,Resignation-Other reasons,2012
+328.0,Age Retirement,2012
+329.0,Age Retirement,2013
+330.0,Voluntary Early Retirement (VER),2013
+331.0,Age Retirement,2012
+332.0,Age Retirement,2012
+333.0,Resignation-Other reasons,2012
+334.0,Resignation-Other employer,2012
+335.0,Age Retirement,2013
+336.0,Contract Expired,2012
+337.0,Other,2012
+338.0,Age Retirement,2013
+339.0,Age Retirement,2012
+340.0,Age Retirement,2013
+341.0,Resignation-Other reasons,2013
+342.0,Voluntary Early Retirement (VER),2013
+343.0,Age Retirement,2012
+344.0,Resignation-Other employer,2012
+345.0,Age Retirement,2013
+346.0,Resignation-Other employer,2012
+347.0,Age Retirement,2013
+348.0,Resignation-Other employer,2012
+349.0,Resignation-Other reasons,2013
+350.0,Age Retirement,2013
+351.0,Age Retirement,2013
+352.0,Age Retirement,2012
+353.0,Age Retirement,2013
+354.0,Other,2012
+355.0,Resignation-Other employer,2013
+356.0,Resignation-Other reasons,2013
+357.0,Resignation-Move overseas/interstate,2013
+358.0,Age Retirement,2013
+359.0,Age Retirement,2013
+360.0,Age Retirement,2013
+361.0,Contract Expired,2012
+362.0,Age Retirement,2013
+363.0,Age Retirement,2013
+364.0,Age Retirement,2013
+365.0,Other,2012
+366.0,Resignation-Other reasons,2012
+367.0,Resignation-Move overseas/interstate,2013
+368.0,Resignation-Move overseas/interstate,2013
+369.0,Voluntary Early Retirement (VER),2013
+370.0,Age Retirement,2013
+371.0,Contract Expired,2012
+372.0,Resignation-Other reasons,2012
+373.0,Age Retirement,2012
+374.0,Age Retirement,2012
+375.0,Resignation-Other employer,2012
+376.0,Resignation-Other reasons,2012
+377.0,Resignation-Move overseas/interstate,2012
+378.0,Resignation-Other employer,2012
+379.0,Age Retirement,2013
+380.0,Resignation-Move overseas/interstate,2012
+381.0,Age Retirement,2013
+382.0,Resignation-Other employer,2013
+383.0,Voluntary Early Retirement (VER),2012
+384.0,Resignation-Move overseas/interstate,2012
+385.0,Contract Expired,2013
+386.0,Age Retirement,2013
+387.0,Ill Health Retirement,2013
+388.0,Age Retirement,2013
+389.0,Resignation-Move overseas/interstate,2013
+390.0,Resignation-Other employer,2013
+391.0,Resignation-Other employer,2013
+392.0,Resignation-Other employer,2012
+393.0,Age Retirement,2013
+394.0,Other,2012
+395.0,Age Retirement,2013
+396.0,Age Retirement,2013
+397.0,Age Retirement,2013
+398.0,Age Retirement,2013
+399.0,Resignation-Other reasons,2012
+400.0,Resignation-Other employer,2013
+401.0,Age Retirement,2013
+402.0,Age Retirement,2013
+403.0,Voluntary Early Retirement (VER),2013
+404.0,Termination,2013
+405.0,Age Retirement,2013
+406.0,Resignation-Other reasons,2012
+407.0,Resignation-Other reasons,2013
+408.0,Resignation-Move overseas/interstate,2013
+409.0,Resignation-Other reasons,2012
+410.0,Resignation-Other reasons,2012
+411.0,Resignation-Other reasons,2013
+412.0,Age Retirement,2012
+413.0,Resignation-Other reasons,2013
+414.0,Age Retirement,2012
+415.0,Resignation-Other employer,2013
+416.0,Resignation-Move overseas/interstate,2013
+417.0,Resignation-Other reasons,2012
+418.0,Resignation-Other reasons,2013
+419.0,Age Retirement,2013
+420.0,Resignation-Other reasons,2013
+421.0,Age Retirement,2013
+422.0,Age Retirement,2013
+423.0,Age Retirement,2013
+424.0,Resignation-Other employer,2013
+425.0,Other,2013
+426.0,Other,2013
+427.0,Other,2013
+428.0,Age Retirement,2013
+429.0,Ill Health Retirement,2013
+430.0,Ill Health Retirement,2013
+431.0,Other,2012
+432.0,Age Retirement,2013
+433.0,Resignation-Move overseas/interstate,2013
+434.0,Resignation-Other reasons,2013
+435.0,Resignation-Other reasons,2013
+436.0,Age Retirement,2013
+437.0,Ill Health Retirement,2013
+438.0,Resignation-Other reasons,2013
+439.0,Resignation-Other employer,2013
+440.0,Resignation-Other reasons,2012
+441.0,Age Retirement,2012
+442.0,Resignation-Other reasons,2013
+443.0,Ill Health Retirement,2013
+444.0,Age Retirement,2013
+445.0,Age Retirement,2013
+446.0,Ill Health Retirement,2012
+447.0,Age Retirement,2013
+448.0,Termination,2012
+449.0,Ill Health Retirement,2013
+450.0,Resignation-Other employer,2012
+451.0,Age Retirement,2013
+452.0,Resignation-Other reasons,2013
+453.0,Resignation-Move overseas/interstate,2013
+454.0,Age Retirement,2013
+455.0,Resignation-Move overseas/interstate,2013
+456.0,Other,2013
+457.0,Resignation-Other reasons,2013
+458.0,Voluntary Early Retirement (VER),2013
+459.0,Age Retirement,2013
+460.0,Resignation-Move overseas/interstate,2012
+461.0,Termination,2013
+462.0,Resignation-Other reasons,2013
+463.0,Voluntary Early Retirement (VER),2013
+464.0,Ill Health Retirement,2013
+465.0,Resignation-Other employer,2013
+466.0,Age Retirement,2013
+467.0,Resignation-Other reasons,2013
+468.0,Age Retirement,2012
+469.0,Ill Health Retirement,2013
+470.0,Other,2013
+471.0,Resignation-Other reasons,2013
+472.0,Resignation-Other reasons,2013
+473.0,Age Retirement,2013
+474.0,Resignation-Other reasons,2013
+475.0,Age Retirement,2013
+476.0,Ill Health Retirement,2013
+477.0,Resignation-Other reasons,2013
+478.0,Resignation-Move overseas/interstate,2013
+479.0,Resignation-Other reasons,2013
+480.0,Resignation-Other reasons,2013
+481.0,Age Retirement,2013
+482.0,Resignation-Other reasons,2012
+483.0,Age Retirement,2013
+484.0,Age Retirement,2013
+485.0,Age Retirement,2013
+486.0,Resignation-Move overseas/interstate,2012
+487.0,Resignation-Other reasons,2013
+488.0,Ill Health Retirement,2012
+489.0,Age Retirement,2013
+490.0,Resignation-Other reasons,2012
+491.0,Age Retirement,2013
+492.0,Ill Health Retirement,2013
+493.0,Resignation-Other reasons,2013
+494.0,Other,2013
+495.0,Resignation-Other employer,2012
+496.0,Resignation-Other reasons,2013
+497.0,Ill Health Retirement,2013
+498.0,Resignation-Move overseas/interstate,2013
+499.0,Age Retirement,2013
+500.0,Resignation-Move overseas/interstate,2013
+501.0,Resignation-Other employer,2013
+502.0,Ill Health Retirement,2013
+503.0,Ill Health Retirement,2013
+504.0,Resignation-Other reasons,2013
+505.0,Resignation-Move overseas/interstate,2013
+506.0,Resignation-Other reasons,2013
+507.0,Resignation-Other reasons,2013
+508.0,Ill Health Retirement,2013
+509.0,Ill Health Retirement,2013
+510.0,Age Retirement,2013
+511.0,Other,2013
+512.0,Age Retirement,2013
+513.0,Age Retirement,2014
+514.0,Age Retirement,2013
+515.0,Age Retirement,2013
+516.0,Age Retirement,2013
+517.0,Age Retirement,2012
+518.0,Resignation-Move overseas/interstate,2010
+519.0,Age Retirement,2012
+520.0,Age Retirement,2013
+521.0,Ill Health Retirement,2013
+522.0,Age Retirement,2013
+523.0,Age Retirement,2013
+524.0,Age Retirement,2013
+525.0,Age Retirement,2012
+526.0,Age Retirement,2013
+527.0,Age Retirement,2013
+528.0,Age Retirement,2012
+529.0,Ill Health Retirement,2012
+530.0,Age Retirement,2013
+531.0,Age Retirement,2013
+532.0,Resignation-Other reasons,2013
+533.0,Voluntary Early Retirement (VER),2013
+534.0,Resignation-Move overseas/interstate,2013
+535.0,Resignation-Other reasons,2012
+536.0,Age Retirement,2013
+537.0,Resignation-Other reasons,2013
+538.0,Voluntary Early Retirement (VER),2013
+539.0,Resignation-Other reasons,2013
+540.0,Resignation-Other reasons,2013
+541.0,Ill Health Retirement,2013
+542.0,Resignation-Other reasons,2013
+543.0,Age Retirement,2013
+544.0,Resignation-Other employer,2013
+545.0,Age Retirement,2013
+546.0,Age Retirement,2013
+547.0,Other,2013
+548.0,Resignation-Other employer,2013
+549.0,Age Retirement,2013
+550.0,Age Retirement,2013
+551.0,Resignation-Other reasons,2013
+552.0,Resignation-Move overseas/interstate,2013
+553.0,Resignation-Other reasons,2013
+554.0,Age Retirement,2013
+555.0,Age Retirement,2012
+556.0,Age Retirement,09/2013
+557.0,Age Retirement,09/2013
+558.0,Resignation-Move overseas/interstate,07/2013
+559.0,Age Retirement,08/2013
+560.0,Voluntary Early Retirement (VER),09/2013
+561.0,Age Retirement,07/2013
+562.0,Voluntary Early Retirement (VER),08/2013
+563.0,Resignation-Move overseas/interstate,06/2013
+564.0,Resignation-Other reasons,06/2013
+565.0,Voluntary Early Retirement (VER),09/2013
+566.0,Age Retirement,07/2013
+567.0,Age Retirement,04/2013
+568.0,Age Retirement,07/2013
+569.0,Resignation-Other reasons,06/2013
+570.0,Resignation-Other reasons,07/2013
+571.0,Other,06/2013
+572.0,Resignation-Other reasons,07/2013
+573.0,Termination,09/2013
+574.0,Ill Health Retirement,06/2013
+575.0,Voluntary Early Retirement (VER),06/2013
+576.0,Resignation-Other reasons,07/2013
+577.0,Resignation-Other reasons,06/2013
+578.0,Resignation-Other employer,09/2013
+579.0,Age Retirement,07/2013
+580.0,Ill Health Retirement,07/2013
+581.0,Age Retirement,07/2013
+582.0,Age Retirement,05/2013
+583.0,Age Retirement,05/2013
+584.0,Age Retirement,09/2013
+585.0,Resignation-Other employer,07/2013
+586.0,Resignation-Move overseas/interstate,06/2013
+587.0,Resignation-Move overseas/interstate,09/2010
+588.0,Age Retirement,06/2013
+589.0,Resignation-Other employer,06/2013
+590.0,Resignation-Other reasons,09/2013
+591.0,Resignation-Other employer,01/2014
+592.0,Ill Health Retirement,06/2013
+593.0,Resignation-Other reasons,06/2013
+594.0,Resignation-Other reasons,06/2013
+595.0,Ill Health Retirement,06/2013
+596.0,Age Retirement,06/2013
+597.0,Voluntary Early Retirement (VER),09/2013
+598.0,Voluntary Early Retirement (VER),06/2013
+599.0,Age Retirement,07/2013
+600.0,Voluntary Early Retirement (VER),09/2013
+601.0,Age Retirement,07/2013
+602.0,Resignation-Other employer,07/2013
+603.0,Age Retirement,06/2013
+604.0,Contract Expired,09/2013
+605.0,Resignation-Other reasons,07/2013
+606.0,Age Retirement,07/2013
+607.0,Age Retirement,07/2013
+608.0,Resignation-Other reasons,06/2013
+609.0,Resignation-Other reasons,07/2013
+610.0,Ill Health Retirement,11/2012
+611.0,Resignation-Other reasons,06/2013
+612.0,Ill Health Retirement,05/2013
+613.0,Resignation-Other reasons,06/2013
+614.0,Resignation-Move overseas/interstate,06/2013
+615.0,Voluntary Early Retirement (VER),07/2013
+616.0,Ill Health Retirement,06/2013
+617.0,Age Retirement,05/2013
+618.0,Resignation-Other reasons,09/2013
+619.0,Age Retirement,07/2013
+620.0,Resignation-Other employer,06/2013
+621.0,Age Retirement,08/2013
+622.0,Resignation-Other reasons,06/2013
+623.0,Age Retirement,06/2013
+624.0,Resignation-Move overseas/interstate,07/2013
+625.0,Age Retirement,07/2013
+626.0,Resignation-Other reasons,05/2013
+627.0,Resignation-Other reasons,05/2013
+628.0,Ill Health Retirement,05/2013
+629.0,Age Retirement,04/2014
+630.0,Age Retirement,09/2013
+631.0,Age Retirement,12/2013
+632.0,Resignation-Other reasons,08/2013
+633.0,Contract Expired,08/2013
+634.0,Ill Health Retirement,06/2013
+635.0,Age Retirement,08/2013
+636.0,Age Retirement,08/2013
+637.0,Age Retirement,01/2014
+638.0,Resignation-Other reasons,09/2013
+639.0,Age Retirement,07/2014
+640.0,Age Retirement,09/2013
+641.0,Other,08/2013
+642.0,Resignation-Move overseas/interstate,09/2013
+643.0,Resignation-Move overseas/interstate,09/2013
+644.0,Voluntary Early Retirement (VER),08/2013
+645.0,Voluntary Early Retirement (VER),10/2013
+646.0,Age Retirement,12/2013
+647.0,Age Retirement,09/2013
+648.0,Resignation-Other reasons,09/2013
+649.0,Other,10/2013
+650.0,Resignation-Other employer,09/2013
+651.0,Resignation-Other employer,10/2013
+652.0,Resignation-Other reasons,09/2013
+653.0,Resignation-Move overseas/interstate,08/2013
+654.0,Age Retirement,09/2013
+655.0,Age Retirement,01/2014
+656.0,Age Retirement,09/2013
+657.0,Other,10/2013
+658.0,Age Retirement,10/2013
+659.0,Resignation-Move overseas/interstate,09/2013
+660.0,Resignation-Other reasons,08/2013
+661.0,Age Retirement,09/2013
+662.0,Age Retirement,01/2014
+663.0,Resignation-Other reasons,09/2013
+665.0,Voluntary Early Retirement (VER),06/2013
+666.0,Resignation-Other employer,01/2014
+667.0,Age Retirement,07/2014
+668.0,Resignation-Other employer,01/2014
+669.0,Resignation-Other reasons,12/2013
+670.0,Age Retirement,01/2014
+671.0,Resignation-Move overseas/interstate,12/2013
+672.0,Resignation-Move overseas/interstate,12/2013
+673.0,Resignation-Other employer,12/2013
+674.0,Age Retirement,01/2014
+675.0,Contract Expired,12/2013
+676.0,Age Retirement,11/2013
+677.0,Voluntary Early Retirement (VER),09/2013
+678.0,Resignation-Other employer,01/2014
+679.0,Ill Health Retirement,12/2013
+680.0,Resignation-Move overseas/interstate,12/2013
+681.0,Age Retirement,12/2013
+682.0,Contract Expired,12/2013
+683.0,Age Retirement,04/2014
+684.0,Resignation-Other employer,11/2013
+685.0,Resignation-Other employer,Not Stated
+686.0,Resignation-Other employer,11/2013
+687.0,Resignation-Other employer,01/2014
+688.0,Ill Health Retirement,12/2013
+689.0,Resignation-Other reasons,11/2013
+690.0,Age Retirement,12/2013
+691.0,Age Retirement,Not Stated
+692.0,Resignation-Move overseas/interstate,01/2014
+693.0,Resignation-Other employer,01/2014
+694.0,Resignation-Other reasons,12/2013
+695.0,Resignation-Move overseas/interstate,01/2014
+696.0,Resignation-Other reasons,Not Stated
+697.0,Age Retirement,10/2013
+698.0,Resignation-Move overseas/interstate,10/2013
+699.0,Age Retirement,10/2013
+700.0,Resignation-Other reasons,11/2013
+701.0,Age Retirement,Not Stated
+702.0,Resignation-Other employer,11/2013
+703.0,Resignation-Other reasons,08/2013
+704.0,Other,09/2013
+705.0,Resignation-Move overseas/interstate,10/2013
+706.0,Resignation-Other reasons,Not Stated
+707.0,Age Retirement,11/2013
+708.0,Age Retirement,12/2013
+709.0,Ill Health Retirement,11/2013
+710.0,Ill Health Retirement,Not Stated
+711.0,Resignation-Other employer,Not Stated
+712.0,Other,12/2013
+713.0,Age Retirement,01/2014
+714.0,Resignation-Other reasons,12/2013
+715.0,Age Retirement,12/2013
+716.0,Age Retirement,11/2013
+717.0,Contract Expired,12/2013
+718.0,Resignation-Other reasons,12/2013
+719.0,Age Retirement,10/2013
+720.0,Contract Expired,Not Stated
+721.0,Contract Expired,09/2013
+722.0,Contract Expired,09/2013
+723.0,Contract Expired,09/2013
+724.0,Contract Expired,09/2013
+725.0,Contract Expired,09/2013
+726.0,Resignation-Other reasons,Not Stated
+727.0,Contract Expired,Not Stated
+728.0,Resignation-Other employer,01/2014
+729.0,Resignation-Other reasons,01/2014
+730.0,Age Retirement,01/2014
+731.0,Age Retirement,Not Stated
+732.0,Resignation-Other employer,12/2013
+733.0,Resignation-Other reasons,01/2014
+734.0,Age Retirement,01/2014
+735.0,Age Retirement,Not Stated
+736.0,Voluntary Early Retirement (VER),10/2013
+737.0,Resignation-Move overseas/interstate,10/2013
+738.0,Age Retirement,10/2013
+739.0,Resignation-Other reasons,10/2013
+740.0,Ill Health Retirement,10/2013
+741.0,Age Retirement,Not Stated
+742.0,Age Retirement,Not Stated
+743.0,Contract Expired,01/2014
+744.0,Age Retirement,01/2014
+745.0,Age Retirement,09/2014
+746.0,Resignation-Other employer,12/2013
+747.0,Age Retirement,Not Stated
+748.0,Age Retirement,01/2014
+749.0,Resignation-Move overseas/interstate,01/2014
+750.0,Age Retirement,12/2013
+751.0,Voluntary Early Retirement (VER),Not Stated
+752.0,Age Retirement,01/2014
+753.0,Resignation-Other reasons,12/2013
+754.0,Resignation-Other reasons,11/2013
+755.0,Resignation-Other employer,11/2013
+756.0,Age Retirement,Not Stated
+757.0,Resignation-Other employer,12/2013
+758.0,Age Retirement,11/2013
+759.0,Age Retirement,01/2014
+760.0,Age Retirement,12/2013
+761.0,Voluntary Early Retirement (VER),12/2013
+762.0,Contract Expired,Not Stated
+763.0,Other,12/2013
+764.0,Resignation-Other employer,07/2006
+765.0,Age Retirement,12/2013
+766.0,Age Retirement,Not Stated
+767.0,Age Retirement,01/2014
+768.0,Resignation-Other employer,01/2014
+769.0,Age Retirement,12/2013
+770.0,Ill Health Retirement,02/2014
+771.0,Resignation-Other reasons,11/2013
+772.0,Resignation-Other reasons,Not Stated
+773.0,Resignation-Other employer,01/2014
+774.0,Age Retirement,04/2013
+775.0,Age Retirement,Not Stated
+776.0,Resignation-Other employer,Not Stated
+777.0,Age Retirement,12/2013
+778.0,Contract Expired,Not Stated
+779.0,Age Retirement,Not Stated
+780.0,Age Retirement,10/2013
+781.0,Age Retirement,10/2013
+782.0,Age Retirement,12/2013
+783.0,Age Retirement,10/2013
+784.0,Voluntary Early Retirement (VER),10/2013
+785.0,Contract Expired,09/2013
+786.0,Resignation-Other reasons,10/2013
+787.0,Age Retirement,01/2014
+788.0,Resignation-Other employer,01/2014
+789.0,Age Retirement,01/2014
+790.0,Resignation-Other employer,Not Stated
+791.0,Resignation-Other reasons,01/2014
+792.0,Resignation-Other reasons,01/2014
+793.0,Resignation-Other reasons,Not Stated
+794.0,Other,Not Stated
+795.0,Ill Health Retirement,12/2013
+796.0,Resignation-Move overseas/interstate,11/2013
+797.0,Age Retirement,Not Stated
+798.0,Age Retirement,Not Stated
+799.0,Resignation-Move overseas/interstate,Not Stated
+800.0,Resignation-Move overseas/interstate,Not Stated
+801.0,Other,Not Stated
+802.0,Other,01/2014
+803.0,Ill Health Retirement,01/2014
+804.0,Resignation-Move overseas/interstate,12/2013
+805.0,Resignation-Other employer,01/2014
+806.0,Resignation-Other employer,01/2014
+807.0,Age Retirement,Not Stated
+808.0,Resignation-Other employer,12/2013
+809.0,Resignation-Other reasons,12/2013
+810.0,Resignation-Other reasons,12/2013
+811.0,Age Retirement,01/2014
+812.0,Age Retirement,Not Stated
+813.0,Contract Expired,12/2013
+814.0,Age Retirement,01/2014
+815.0,Age Retirement,11/2013
+816.0,Age Retirement,11/2013
+817.0,Resignation-Other employer,01/2014
+818.0,Resignation-Move overseas/interstate,01/2014
+819.0,Age Retirement,02/2014
+820.0,Age Retirement,01/2014
+821.0,Resignation-Move overseas/interstate,01/2014
+822.0,Ill Health Retirement,12/2013
+823.0,Resignation-Move overseas/interstate,12/2013
+6.34133009996094e+17,Contract Expired | ,2010.0
+6.34133654064531e+17,Retirement | Travel,2010.0
+6.34138845606563e+17,Retirement | NONE,2010.0
+6.3413990335e+17,Resignation | Travel,2010.0
+6.34146578511788e+17,Resignation | Career Move - Private Sector,2010.0
+6.34147506906311e+17,Resignation | Other,2010.0
+6.34152007975694e+17,"Resignation | Career Move - Private Sector, Maternity/Family, Other",2010.0
+6.34153745310374e+17,Resignation | Other,2010.0
+6.34157899735969e+17,Resignation | Other,2009.0
+6.34158812168312e+17,"Resignation | Career Move - Public Sector, Other",2010.0
+6.34158825838625e+17,Resignation | Career Move - Public Sector,2010.0
+6.34171926251752e+17,Retrenchment/ Redundancy | ,2010.0
+6.34171929735346e+17,Retrenchment/ Redundancy | ,2010.0
+6.3417252283144e+17,Resignation | Career Move - Private Sector,2010.0
+6.34172609223344e+17,"Resignation | Career Move - Private Sector, Contributing Factors. Dissatisfaction, Job Dissatisfaction",2010.0
+6.34176076134409e+17,Resignation | Other,2010.0
+6.34177007457719e+17,Resignation | ,2010.0
+6.34177053480062e+17,"Resignation | Career Move - Public Sector, Job Dissatisfaction",2010.0
+6.34177938010971e+17,Resignation | ,2010.0
+6.3418197264725e+17,Resignation | NONE,2010.0
+6.34182099183434e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction",2010.0
+6.34183070751313e+17,Resignation | Career Move - Private Sector,2010.0
+6.34184748867652e+17,"Resignation | Career Move - Public Sector, Other",2010.0
+6.34190678592028e+17,Resignation | ,2010.0
+6.34190743855375e+17,Resignation | Career Move - Private Sector,2010.0
+6.34190913957094e+17,Contract Expired | ,2010.0
+6.34193418130687e+17,"Resignation | Career Move - Private Sector, Contributing Factors. Dissatisfaction, Job Dissatisfaction",2010.0
+6.34193458894281e+17,Resignation | Career Move - Public Sector,2010.0
+6.34195084065465e+17,Retirement | ,2010.0
+6.341993935285e+17,Resignation | Career Move - Private Sector,2010.0
+6.34199520161313e+17,Contract Expired | ,2010.0
+6.34199595826715e+17,Contract Expired | ,2010.0
+6.34200229589215e+17,Resignation | Career Move - Private Sector,2010.0
+6.3420113743107e+17,Retirement | Travel,2010.0
+6.34201997218101e+17,Retirement | NONE,2010.0
+6.34205577322164e+17,Retirement | Career Move - Self-employment,2010.0
+6.34206210361383e+17,"Resignation | Career Move - Public Sector, Career Move - Private Sector, Other",2010.0
+6.34207964363344e+17,Resignation | Travel,2010.0
+6.3420797198725e+17,Termination | ,2010.0
+6.34208063783969e+17,Resignation | Career Move - Public Sector,2010.0
+6.34208993864195e+17,Resignation | Contributing Factors. Dissatisfaction,2010.0
+6.34209003247164e+17,Resignation | Career Move - Self-employment,2010.0
+6.34209012525289e+17,Resignation | Career Move - Self-employment,2010.0
+6.34209019387633e+17,Contract Expired | ,2010.0
+6.34209026016695e+17,Contract Expired | ,2010.0
+6.34209027931539e+17,"Resignation | Career Move - Public Sector, Career Move - Private Sector, Other",2010.0
+6.34209037420601e+17,Resignation | Other,2010.0
+6.34211542757094e+17,"Resignation | Career Move - Private Sector, Contributing Factors. Dissatisfaction",2010.0
+6.34212412239976e+17,"Transfer | Career Move - Public Sector, Maternity/Family, Job Dissatisfaction",2010.0
+6.3421319649857e+17,Resignation | Career Move - Private Sector,2010.0
+6.34214004205914e+17,Contract Expired | ,2010.0
+6.34214138447945e+17,Resignation | ,2010.0
+6.34214156864906e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction",2010.0
+6.34214849407633e+17,Resignation | Career Move - Public Sector,2010.0
+6.34217422828726e+17,"Resignation | Contributing Factors. Dissatisfaction, Other",2010.0
+6.34218492665219e+17,Resignation | Career Move - Private Sector,2010.0
+6.34219251646781e+17,Resignation | Career Move - Private Sector,2010.0
+6.34219263224125e+17,Contract Expired | ,2010.0
+6.34219274566469e+17,Resignation | Job Dissatisfaction,2010.0
+6.34219394328258e+17,Contract Expired | ,2010.0
+6.34219407445375e+17,Retirement | Other,2010.0
+6.34219413623344e+17,Contract Expired | ,2009.0
+6.34219425466156e+17,Contract Expired | ,2009.0
+6.34220006275757e+17,Resignation | Other,2009.0
+6.34220145175757e+17,"Resignation | Contributing Factors. Dissatisfaction, Interpersonal Conflict",2010.0
+6.34221044292008e+17,"Resignation | Contributing Factors. Dissatisfaction, Other",2010.0
+6.34223513490601e+17,Resignation | Maternity/Family,2010.0
+6.34224469051226e+17,Contract Expired | ,2010.0
+6.34225251664195e+17,Contract Expired | ,2010.0
+6.34226171903257e+17,Resignation | Career Move - Private Sector,2010.0
+6.34227157286851e+17,Transfer | Job Dissatisfaction,2010.0
+6.3422718506975e+17,"Resignation | Career Move - Public Sector, Contributing Factors. Dissatisfaction",2010.0
+6.34227207368969e+17,Resignation | Other,2010.0
+6.34227222513344e+17,Contract Expired | ,2010.0
+6.34231466668883e+17,Resignation | Job Dissatisfaction,2010.0
+6.34232185219039e+17,Contract Expired | ,2010.0
+6.34235863003594e+17,Transfer | Career Move - Public Sector,2010.0
+6.34238426001094e+17,Retrenchment/ Redundancy | ,2010.0
+6.342393039825e+17,Transfer | Ill Health,2010.0
+6.34241795347656e+17,Resignation | Job Dissatisfaction,2010.0
+6.34243628858726e+17,Resignation | Other,2010.0
+6.34243664081406e+17,Resignation | Maternity/Family,2010.0
+6.34245133689063e+17,Resignation | NONE,2010.0
+6.34250266309976e+17,Contract Expired | ,2010.0
+6.34250409172945e+17,Resignation | Maternity/Family,2010.0
+6.34251116016226e+17,Resignation | Career Move - Public Sector,2010.0
+6.34251290130132e+17,"Resignation | Career Move - Private Sector, Ill Health, Contributing Factors. Dissatisfaction, Job Dissatisfaction, Interpersonal Conflict",2010.0
+6.34257448030289e+17,Resignation | Career Move - Public Sector,2010.0
+6.3425975246732e+17,Resignation | Career Move - Private Sector,2010.0
+6.34260719918915e+17,Resignation | Career Move - Public Sector,2010.0
+6.34263394624001e+17,Contract Expired | ,
+6.34266079365634e+17,"Resignation | Career Move - Private Sector, Ill Health",2010.0
+6.34266938733603e+17,Resignation | Career Move - Public Sector,2010.0
+6.3426772590329e+17,Resignation | Career Move - Private Sector,
+6.34267873855009e+17,Resignation | ,2011.0
+6.34268423021657e+17,Contract Expired | ,2010.0
+6.34268446707283e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction, Other",2010.0
+6.34268641051884e+17,"Resignation | Career Move - Public Sector, Contributing Factors. Dissatisfaction, Job Dissatisfaction, Interpersonal Conflict",2011.0
+6.34269438105095e+17,"Resignation | Job Dissatisfaction, Study",2010.0
+6.34272910039626e+17,Retirement | NONE,2010.0
+6.34273756721501e+17,"Resignation | Career Move - Public Sector, Contributing Factors. Dissatisfaction",2011.0
+6.34274542281501e+17,"Resignation | Ill Health, Contributing Factors. Dissatisfaction, Interpersonal Conflict",2010.0
+6.34274566132353e+17,"Resignation | Ill Health, Contributing Factors. Dissatisfaction, Interpersonal Conflict",2010.0
+6.34275489048845e+17,"Resignation | Maternity/Family, Contributing Factors. Dissatisfaction, Job Dissatisfaction, Interpersonal Conflict",2010.0
+6.34280719819371e+17,Resignation | Career Move - Public Sector,
+6.34281400568746e+17,Resignation | Career Move - Private Sector,2010.0
+6.34281450090309e+17,Termination | ,2010.0
+6.34284989401715e+17,Resignation | Career Move - Private Sector,2010.0
+6.34285674608023e+17,Contract Expired | ,2010.0
+6.34285909851304e+17,"Resignation | Career Move - Public Sector, Other",2011.0
+6.34285952710835e+17,Transfer | Career Move - Public Sector,2011.0
+6.34286548594429e+17,Contract Expired | ,2010.0
+6.34286658782965e+17,Contract Expired | ,2011.0
+6.34297824199371e+17,"Resignation | Contributing Factors. Dissatisfaction, Travel",
+6.34298884567184e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction",2011.0
+6.34304735958746e+17,Contract Expired | ,2011.0
+6.34309981362554e+17,Resignation | NONE,2011.0
+6.3431012128271e+17,Contract Expired | ,2011.0
+6.34310942921246e+17,Resignation | Travel,2011.0
+6.34314358367965e+17,Resignation | Other,2011.0
+6.34315046486772e+17,Contract Expired | ,2011.0
+6.34316886387496e+17,"Resignation | Career Move - Private Sector, Maternity/Family",2011.0
+6.34317688380679e+17,"Resignation | Career Move - Private Sector, Study",2011.0
+6.34317845042866e+17,Transfer | Maternity/Family,2011.0
+6.34322927651559e+17,Resignation | Job Dissatisfaction,2011.0
+6.3432311502146e+17,Resignation | Job Dissatisfaction,2011.0
+6.34323709021402e+17,Resignation | Job Dissatisfaction,2011.0
+6.34323732465523e+17,Termination | ,2011.0
+6.34323806434371e+17,Resignation | Career Move - Private Sector,2011.0
+6.34326352243491e+17,"Resignation | Career Move - Private Sector, Other",2011.0
+6.3432637818396e+17,Resignation | Maternity/Family,2011.0
+6.3432645414859e+17,"Resignation | Ill Health, Other",2011.0
+6.34328087765991e+17,Resignation | Ill Health,2011.0
+6.34328171329844e+17,Resignation | Study,2011.0
+6.34328202850835e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction",2011.0
+6.3432828844021e+17,Resignation | Contributing Factors. Dissatisfaction,
+6.34329804601719e+17,Resignation | Career Move - Private Sector,2011.0
+6.34329959592554e+17,Resignation | Study,2011.0
+6.34333279253906e+17,Resignation | Career Move - Private Sector,2011.0
+6.34333408714687e+17,Transfer | Career Move - Public Sector,2011.0
+6.34335805202554e+17,Contract Expired | ,2011.0
+6.34340388349585e+17,"Retirement | Ill Health, Interpersonal Conflict",2011.0
+6.34340978789585e+17,Contract Expired | ,2011.0
+6.34344511160937e+17,Retirement | Contributing Factors. Dissatisfaction,2011.0
+6.34345415831406e+17,"Transfer | Career Move - Public Sector, Contributing Factors. Dissatisfaction, Interpersonal Conflict",2011.0
+6.34346271723281e+17,Resignation | Career Move - Self-employment,2011.0
+6.34346401168125e+17,Contract Expired | ,2011.0
+6.34352308949688e+17,Retirement | Career Move - Self-employment,2011.0
+6.34353285189063e+17,"Resignation | Career Move - Private Sector, Career Move - Self-employment, Study, Travel",2011.0
+6.34356555160312e+17,Resignation | Other,2011.0
+6.34356560392188e+17,Resignation | Career Move - Private Sector,2011.0
+6.34356641434062e+17,Resignation | Other,2011.0
+6.34356731460781e+17,Resignation | Career Move - Private Sector,2011.0
+6.34358247777344e+17,Resignation | Career Move - Public Sector,2011.0
+6.34358414389688e+17,Contract Expired | ,2011.0
+6.34358731384062e+17,Retirement | Contributing Factors. Dissatisfaction,2011.0
+6.34359251421562e+17,Retirement | NONE,2011.0
+6.34360008438438e+17,"Retirement | Career Move - Self-employment, Job Dissatisfaction",2011.0
+6.34362639709063e+17,"Retirement | Ill Health, Maternity/Family",2011.0
+6.34365142728281e+17,"Resignation | Career Move - Public Sector, Contributing Factors. Dissatisfaction, Travel",2011.0
+6.3436545961125e+17,Resignation | Other,2011.0
+6.34366032016094e+17,Resignation | Other,2011.0
+6.34366171489688e+17,Contract Expired | ,2011.0
+6.34370412543594e+17,Contract Expired | ,2011.0
+6.34370483668125e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction, Interpersonal Conflict",2011.0
+6.34370606168281e+17,Contract Expired | ,2011.0
+6.34372114428281e+17,"Retirement | Contributing Factors. Dissatisfaction, Job Dissatisfaction",2011.0
+6.34376433396563e+17,Resignation | Career Move - Public Sector,2011.0
+6.34377507269688e+17,Resignation | Other,2011.0
+6.34381134640312e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction",2011.0
+6.34383335357969e+17,Retirement | Travel,2011.0
+6.34388595410156e+17,Contract Expired | ,2011.0
+6.34388661685e+17,Resignation | Career Move - Private Sector,2011.0
+6.34388739792188e+17,Retirement | Job Dissatisfaction,2011.0
+6.34389476488906e+17,Resignation | NONE,2011.0
+6.3439543481625e+17,Resignation | Career Move - Public Sector,2011.0
+6.34395453810469e+17,Retirement | NONE,2011.0
+6.34395566956406e+17,Contract Expired | ,2011.0
+6.34399738233281e+17,Resignation | Other,2011.0
+6.34407548427969e+17,Resignation | Other,2011.0
+6.34411016475156e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction",2011.0
+6.34412849002344e+17,Resignation | Contributing Factors. Dissatisfaction,2011.0
+6.344138709125e+17,Termination | ,2011.0
+6.34417864506406e+17,"Resignation | Job Dissatisfaction, Interpersonal Conflict",2011.0
+6.34418043788438e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction",2011.0
+6.34419660420156e+17,"Resignation | Career Move - Private Sector, Contributing Factors. Dissatisfaction, Job Dissatisfaction",2011.0
+6.34419812329531e+17,Resignation | Career Move - Private Sector,2011.0
+6.34420617024687e+17,Retrenchment/ Redundancy | ,2011.0
+6.34423305341562e+17,Retirement | Maternity/Family,2011.0
+6.344250437875e+17,Resignation | Maternity/Family,2011.0
+6.34425831321094e+17,Contract Expired | ,2011.0
+6.34429978393906e+17,Resignation | Other,2011.0
+6.34430196933125e+17,Resignation | NONE,2011.0
+6.34431906734219e+17,Resignation | Career Move - Private Sector,2011.0
+6.34436080180469e+17,Resignation | Job Dissatisfaction,2011.0
+6.34438675485469e+17,"Retirement | Maternity/Family, Job Dissatisfaction",2011.0
+6.34443964450156e+17,Resignation | Career Move - Self-employment,2011.0
+6.34444676214219e+17,"Resignation | Career Move - Public Sector, Other",2011.0
+6.34447301250156e+17,Contract Expired | ,2011.0
+6.34450781262969e+17,Contract Expired | ,2011.0
+6.34454356619531e+17,Resignation | Other,2011.0
+6.34454362346563e+17,Contract Expired | ,2011.0
+6.34455107975313e+17,"Retirement | Ill Health, Other",2011.0
+6.34456033339688e+17,Resignation | Job Dissatisfaction,2011.0
+6.3445681099e+17,"Resignation | Contributing Factors. Dissatisfaction, Interpersonal Conflict",2010.0
+6.34461102971094e+17,Retrenchment/ Redundancy | ,2011.0
+6.34461110095938e+17,Retrenchment/ Redundancy | ,2011.0
+6.34462838669219e+17,"Resignation | Career Move - Public Sector, Other",2011.0
+6.34465408262031e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction, Study",2011.0
+6.34466325765938e+17,Contract Expired | ,2011.0
+6.34466334830781e+17,Contract Expired | ,2011.0
+6.34466338996094e+17,Resignation | Maternity/Family,2011.0
+6.3446806352125e+17,Contract Expired | ,2011.0
+6.34468104798125e+17,Contract Expired | ,2011.0
+6.34468237201562e+17,Contract Expired | ,2011.0
+6.3446906019125e+17,Resignation | Career Move - Private Sector,2011.0
+6.34471580533906e+17,Retirement | Other,2011.0
+6.34474119730625e+17,Resignation | Other,2011.0
+6.34474960259219e+17,Retrenchment/ Redundancy | ,2011.0
+6.34475001702969e+17,Retrenchment/ Redundancy | ,2011.0
+6.344801538575e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction",2011.0
+6.34480996232969e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction",2011.0
+6.34483759524219e+17,Retirement | NONE,2012.0
+6.34485432981094e+17,Retirement | NONE,2011.0
+6.3448707873875e+17,"Resignation | Maternity/Family, Other",2011.0
+6.34491780096563e+17,Retirement | Other,2011.0
+6.34492389417187e+17,Contract Expired | ,2011.0
+6.34492399751406e+17,Contract Expired | ,2011.0
+6.34495664096406e+17,Resignation | Career Move - Private Sector,2011.0
+6.34496573562969e+17,Resignation | Career Move - Private Sector,2011.0
+6.34496661404062e+17,Retrenchment/ Redundancy | ,2011.0
+6.34497559461719e+17,Resignation | Travel,2011.0
+6.34497651258125e+17,Termination | ,2011.0
+6.34498298127969e+17,Resignation | Study,2011.0
+6.34499252882656e+17,Resignation | Job Dissatisfaction,2010.0
+6.34508607117812e+17,Resignation | Study,2011.0
+6.34509621647969e+17,Resignation | Travel,2011.0
+6.34515603225e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction, Interpersonal Conflict, Study",2011.0
+6.34517445885469e+17,Resignation | Career Move - Public Sector,2011.0
+6.34519977362813e+17,Contract Expired | ,2011.0
+6.34520852160469e+17,Resignation | Maternity/Family,2011.0
+6.34521642169688e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction",2011.0
+6.34522371755781e+17,Resignation | Other,2011.0
+6.34523409759688e+17,Resignation | Other,2011.0
+6.34525935995156e+17,Termination | ,2011.0
+6.34526057042656e+17,Resignation | Career Move - Private Sector,2011.0
+6.34527641594062e+17,Resignation | Interpersonal Conflict,2011.0
+6.34527818866563e+17,Contract Expired | ,2011.0
+6.34528575096719e+17,Contract Expired | ,2011.0
+6.34528748789219e+17,Contract Expired | ,2011.0
+6.34529403585e+17,Retrenchment/ Redundancy | ,2011.0
+6.34533959365625e+17,Contract Expired | ,2011.0
+6.34535441639531e+17,Termination | ,2011.0
+6.34540823178594e+17,Contract Expired | ,2011.0
+6.34541462557656e+17,Resignation | Career Move - Public Sector,2011.0
+6.34549611075156e+17,Transfer | Other,2011.0
+6.34550190071875e+17,Resignation | Career Move - Public Sector,2011.0
+6.34550359425e+17,Contract Expired | ,2011.0
+6.34551034294687e+17,Resignation | ,2011.0
+6.34551070180781e+17,Resignation | Interpersonal Conflict,2011.0
+6.34551832315938e+17,Transfer | Contributing Factors. Dissatisfaction,2011.0
+6.34552014788281e+17,Contract Expired | ,2011.0
+6.3455271177625e+17,Retirement | NONE,2011.0
+6.3455287020625e+17,Resignation | Other,2011.0
+6.34552909616094e+17,Retrenchment/ Redundancy | ,2012.0
+6.34553547935261e+17,Retrenchment/ Redundancy | ,2011.0
+6.34553571408906e+17,"Retirement | Ill Health, Job Dissatisfaction",2011.0
+6.34553808149844e+17,Contract Expired | ,2011.0
+6.34556211676511e+17,Retirement | NONE,2011.0
+6.345562181325e+17,Retirement | Ill Health,2011.0
+6.34556300304062e+17,Resignation | Career Move - Public Sector,2011.0
+6.34556943700261e+17,"Retirement | Ill Health, Contributing Factors. Dissatisfaction",2011.0
+6.345570077075e+17,Retrenchment/ Redundancy | ,2011.0
+6.34557157627136e+17,Termination | ,2011.0
+6.345578604725e+17,Resignation | Career Move - Private Sector,2012.0
+6.3455802800948e+17,Resignation | Career Move - Private Sector,2011.0
+6.34558122915156e+17,Resignation | ,2011.0
+6.3455895140073e+17,Resignation | Career Move - Private Sector,2011.0
+6.34558972484324e+17,Retrenchment/ Redundancy | ,2011.0
+6.34563192324844e+17,Resignation | Ill Health,2011.0
+6.34563904634531e+17,"Resignation | Maternity/Family, Other",2011.0
+6.34563927869375e+17,Retirement | Other,2011.0
+6.34564000928438e+17,"Retirement | Contributing Factors. Dissatisfaction, Job Dissatisfaction, Interpersonal Conflict",2011.0
+6.34564018384531e+17,Retrenchment/ Redundancy | ,2011.0
+6.3456406360125e+17,Retirement | Ill Health,2011.0
+6.34564078365469e+17,Retirement | NONE,2011.0
+6.34564089906719e+17,Retirement | NONE,2011.0
+6.34564734197031e+17,Resignation | ,2011.0
+6.34564737601875e+17,Resignation | Job Dissatisfaction,2011.0
+6.34564781161406e+17,Retrenchment/ Redundancy | ,2011.0
+6.3456478518625e+17,Retirement | ,
+6.34564786657344e+17,Retrenchment/ Redundancy | ,2011.0
+6.34564899012031e+17,Retrenchment/ Redundancy | ,2011.0
+6.34565719506875e+17,Resignation | NONE,2011.0
+6.34568278370781e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction, Travel",2011.0
+6.34568317773125e+17,Resignation | NONE,2011.0
+6.34568388536875e+17,Retrenchment/ Redundancy | ,2011.0
+6.34568471579063e+17,Retirement | NONE,2011.0
+6.34570010768125e+17,Retrenchment/ Redundancy | ,2011.0
+6.34570247249322e+17,Resignation | Study,2011.0
+6.34570821134531e+17,Transfer | Career Move - Public Sector,2011.0
+6.34570842998906e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction, Interpersonal Conflict, Other",2011.0
+6.34570881452188e+17,Retirement | Other,2011.0
+6.34574339025156e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction",2011.0
+6.34574528552031e+17,Retirement | ,2011.0
+6.34574540544844e+17,Retrenchment/ Redundancy | ,2011.0
+6.34575147671875e+17,Retrenchment/ Redundancy | ,2011.0
+6.3457516073125e+17,"Resignation | Maternity/Family, Travel",2011.0
+6.34575215740156e+17,Retrenchment/ Redundancy | ,2011.0
+6.34575365172344e+17,Retrenchment/ Redundancy | ,2011.0
+6.345754127925e+17,Resignation | Contributing Factors. Dissatisfaction,2011.0
+6.34575998028125e+17,Retrenchment/ Redundancy | ,2011.0
+6.34576020012813e+17,Resignation | Other,2011.0
+6.34576068194844e+17,Retrenchment/ Redundancy | ,2011.0
+6.34576230941875e+17,Contract Expired | ,2011.0
+6.34576957824062e+17,Resignation | Other,2011.0
+6.34577056474375e+17,"Resignation | Career Move - Public Sector, Travel",2011.0
+6.34577068502656e+17,Retirement | Other,2011.0
+6.34577125839844e+17,Retirement | Other,2011.0
+6.34577814504531e+17,Retirement | NONE,2011.0
+6.34577945776563e+17,Resignation | Other,2011.0
+6.34577978929375e+17,Resignation | Other,2011.0
+6.34580376657969e+17,Retrenchment/ Redundancy | ,2011.0
+6.34580402580937e+17,Retrenchment/ Redundancy | ,2011.0
+6.34580449107031e+17, | ,2011.0
+6.34580584676406e+17,Retirement | Other,2011.0
+6.3458117411625e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction, Interpersonal Conflict",2011.0
+6.34581193524375e+17,"Retirement | Career Move - Private Sector, Job Dissatisfaction",2011.0
+6.34581200570937e+17,Retrenchment/ Redundancy | ,2011.0
+6.34581205982188e+17,Transfer | NONE,2012.0
+6.34581219297344e+17,Retrenchment/ Redundancy | ,2011.0
+6.3458122753e+17,Retrenchment/ Redundancy | ,2011.0
+6.34581240039844e+17,Retrenchment/ Redundancy | ,2011.0
+6.34581287875e+17,Retirement | Job Dissatisfaction,2011.0
+6.3458137435375e+17,Retirement | NONE,2011.0
+6.34581382832188e+17,Retrenchment/ Redundancy | ,2011.0
+6.34581395871562e+17,Retrenchment/ Redundancy | ,2011.0
+6.34582037492969e+17,Contract Expired | ,2011.0
+6.34582074204062e+17,Resignation | NONE,2011.0
+6.34582107325625e+17,Retirement | Contributing Factors. Dissatisfaction,2011.0
+6.34582121700937e+17,Retrenchment/ Redundancy | ,2011.0
+6.34582155813125e+17,Resignation | Career Move - Self-employment,2011.0
+6.34582194805469e+17,Retrenchment/ Redundancy | ,2011.0
+6.34582239753594e+17,Retrenchment/ Redundancy | ,2011.0
+6.34582296244062e+17,Retrenchment/ Redundancy | ,2011.0
+6.3458231357125e+17,Retrenchment/ Redundancy | ,2011.0
+6.3458303174875e+17,Retrenchment/ Redundancy | ,2011.0
+6.34583077875781e+17,Retrenchment/ Redundancy | ,2011.0
+6.34583118693437e+17,Retrenchment/ Redundancy | ,2011.0
+6.34583146836094e+17,Retrenchment/ Redundancy | ,2011.0
+6.34583178702344e+17,Retrenchment/ Redundancy | ,2011.0
+6.34583834033437e+17,Retirement | Other,2011.0
+6.34583841789688e+17,Contract Expired | ,2011.0
+6.34583921802031e+17,Retrenchment/ Redundancy | ,2011.0
+6.34583953717969e+17,Retirement | Contributing Factors. Dissatisfaction,2011.0
+6.34583967086406e+17,Retrenchment/ Redundancy | ,2011.0
+6.34583968718906e+17,Contract Expired | ,2011.0
+6.34584008886406e+17,"Transfer | Career Move - Public Sector, Job Dissatisfaction",2011.0
+6.34586368436563e+17,Retirement | Other,2011.0
+6.34587255819219e+17,Retrenchment/ Redundancy | ,2011.0
+6.34587282300781e+17,Retrenchment/ Redundancy | ,2011.0
+6.34587326853281e+17,Retrenchment/ Redundancy | ,2011.0
+6.34587358750312e+17,Retrenchment/ Redundancy | ,2011.0
+6.34587368215469e+17,Retrenchment/ Redundancy | ,2011.0
+6.3458743964875e+17,Retrenchment/ Redundancy | ,2011.0
+6.34588118119375e+17,Retrenchment/ Redundancy | ,2011.0
+6.34588206563125e+17,Retrenchment/ Redundancy | ,2011.0
+6.34588972696719e+17,Retirement | NONE,2011.0
+6.34589004859375e+17,Retrenchment/ Redundancy | ,2011.0
+6.34589056926875e+17,Retirement | NONE,2011.0
+6.34589124148906e+17,Retrenchment/ Redundancy | ,2011.0
+6.34589153179219e+17,Resignation | Other,2011.0
+6.34589971216563e+17,Retrenchment/ Redundancy | ,2011.0
+6.3459250085375e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction, Interpersonal Conflict",2011.0
+6.34592549493281e+17,Resignation | Other,2011.0
+6.34593386107187e+17,Resignation | Other,2011.0
+6.34595096448594e+17,Retirement | Ill Health,2011.0
+6.34595867098906e+17,Resignation | Career Move - Private Sector,2011.0
+6.34596021056875e+17,Contract Expired | ,2011.0
+6.34596058346875e+17,Contract Expired | ,2012.0
+6.34598712269375e+17,Contract Expired | ,2012.0
+6.34599352590156e+17,Contract Expired | ,2011.0
+6.34600207124687e+17,Contract Expired | ,2011.0
+6.34600285342656e+17,"Resignation | Ill Health, Other",2011.0
+6.34601227926094e+17,Transfer | Other,2012.0
+6.34612373906875e+17,Retirement | NONE,2012.0
+6.34617650635469e+17,"Resignation | Maternity/Family, Contributing Factors. Dissatisfaction",2012.0
+6.34619453818281e+17,Contract Expired | ,2012.0
+6.34620112502188e+17,Transfer | NONE,2012.0
+6.34620134299688e+17,"Resignation | Career Move - Public Sector, Maternity/Family",2012.0
+6.34623528068438e+17,Contract Expired | ,2012.0
+6.34623599234844e+17,Resignation | Ill Health,2012.0
+6.34625490994219e+17,Retirement | ,2012.0
+6.34625548923437e+17,Retirement | Career Move - Self-employment,2012.0
+6.34628700820312e+17,Contract Expired | ,2012.0
+6.34634833429063e+17,Resignation | Contributing Factors. Dissatisfaction,2012.0
+6.34635009354531e+17,Resignation | Career Move - Private Sector,2012.0
+6.34635670462188e+17,Termination | ,2012.0
+6.34638198687656e+17,Resignation | Career Move - Private Sector,2012.0
+6.3463826696125e+17,"Resignation | Career Move - Public Sector, Job Dissatisfaction",2012.0
+6.34638274154219e+17,"Resignation | Career Move - Public Sector, Career Move - Private Sector, Other",2012.0
+6.34638401683906e+17,Resignation | Contributing Factors. Dissatisfaction,2012.0
+6.34640883155625e+17,Retirement | NONE,2012.0
+6.34647786128438e+17,Termination | ,2012.0
+6.34648744738906e+17,"Resignation | Career Move - Public Sector, Interpersonal Conflict",2012.0
+6.34648747047187e+17,Resignation | Career Move - Private Sector,2012.0
+6.34650545650312e+17,Retirement | Other,2012.0
+6.34653126293281e+17,Resignation | Study,2012.0
+6.34654936843281e+17,Contract Expired | ,2012.0
+6.34662477490156e+17,Resignation | Career Move - Private Sector,2012.0
+6.34665151952656e+17,Retrenchment/ Redundancy | ,2012.0
+6.34665190018906e+17,Retirement | Contributing Factors. Dissatisfaction,2012.0
+6.34666828449688e+17,Resignation | Job Dissatisfaction,2012.0
+6.34666854789531e+17,Resignation | Career Move - Public Sector,2012.0
+6.34667551458125e+17,Retirement | Other,2012.0
+6.34667782794219e+17,Contract Expired | ,2012.0
+6.34668611537031e+17,Resignation | Other,2012.0
+6.346686393775e+17,Contract Expired | ,2012.0
+6.34671038100781e+17,Contract Expired | ,2012.0
+6.34671263031094e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction, Study",2012.0
+6.34671297286719e+17,Resignation | Other,2012.0
+6.34674515660156e+17,"Resignation | Career Move - Private Sector, Career Move - Self-employment, Job Dissatisfaction",2012.0
+6.34679850935469e+17,Retirement | NONE,2012.0
+6.3468315402e+17,Resignation | Other,2012.0
+6.34683356744531e+17,Resignation | Other,2012.0
+6.34683398688906e+17,Retirement | Other,2012.0
+6.34683991923437e+17,Contract Expired | ,2012.0
+6.34684858305469e+17,Contract Expired | ,2012.0
+6.346858082725e+17,Contract Expired | ,2012.0
+6.34685820372813e+17,Contract Expired | ,2012.0
+6.34686574706563e+17,Contract Expired | ,2012.0
+6.34686807219219e+17,Termination | ,2012.0
+6.3468922272375e+17,Contract Expired | ,2012.0
+6.34689360748125e+17,Retirement | ,2012.0
+6.34691779624687e+17,"Resignation | Maternity/Family, Travel",2012.0
+6.34691969682969e+17,Contract Expired | ,2012.0
+6.34696179014844e+17,Resignation | Other,2012.0
+6.34696327235313e+17,Resignation | ,2012.0
+6.34697120680156e+17,Termination | ,2012.0
+6.34697816674062e+17,Resignation | Career Move - Private Sector,2012.0
+6.34698719508125e+17,Retrenchment/ Redundancy | ,2012.0
+6.347023585025e+17,"Resignation | Maternity/Family, Contributing Factors. Dissatisfaction, Interpersonal Conflict",2011.0
+6.34702366178594e+17,"Resignation | Career Move - Private Sector, Interpersonal Conflict",2011.0
+6.34703091309531e+17,"Retirement | Ill Health, Job Dissatisfaction",2012.0
+6.34704871846406e+17,Contract Expired | ,2012.0
+6.34704924682031e+17,Retirement | Travel,2012.0
+6.34707388560312e+17,Contract Expired | ,2012.0
+6.34707564443167e+17,Contract Expired | ,2012.0
+6.34713425884844e+17,Resignation | Other,2012.0
+6.34715994894531e+17,Retrenchment/ Redundancy | ,2012.0
+6.34716874887187e+17,Contract Expired | ,2012.0
+6.34722082133437e+17,"Resignation | Study, Travel",2012.0
+6.34722949292074e+17,Resignation | Contributing Factors. Dissatisfaction,2012.0
+6.34722992951406e+17,"Resignation | Career Move - Private Sector, Contributing Factors. Dissatisfaction, Job Dissatisfaction",2012.0
+6.34729130865938e+17,Contract Expired | ,2012.0
+6.34731736579172e+17,Retirement | NONE,2012.0
+6.34733451073235e+17,Contract Expired | ,2012.0
+6.34734330047525e+17,Transfer | Career Move - Public Sector,2012.0
+6.34735049954641e+17,Contract Expired | ,2012.0
+6.34735216223306e+17,Contract Expired | ,2012.0
+6.347410964069e+17,Contract Expired | ,2012.0
+6.34741133763931e+17,Contract Expired | ,2012.0
+6.3474115202386e+17,"Transfer | Career Move - Public Sector, Other",2012.0
+6.34743600339485e+17,Resignation | NONE,2012.0
+6.34744466673931e+17,Termination | ,2012.0
+6.34744567729869e+17,Termination | ,2012.0
+6.34745331056829e+17,Termination | ,2012.0
+6.34747238918391e+17,Transfer | Career Move - Public Sector,2012.0
+6.34747251670266e+17,Contract Expired | ,2012.0
+6.3475061227315e+17,Resignation | Career Move - Public Sector,2012.0
+6.34753321028079e+17,Retirement | Job Dissatisfaction,2012.0
+6.34753384952766e+17,Resignation | Career Move - Public Sector,2012.0
+6.34757681589172e+17,Contract Expired | ,2012.0
+6.34757720169172e+17,Termination | ,2012.0
+6.3475829391511e+17,Contract Expired | ,2012.0
+6.34758331076119e+17,Termination | ,2012.0
+6.3475927847386e+17,Retrenchment/ Redundancy | ,2012.0
+6.34759279560735e+17,Contract Expired | ,2012.0
+6.34760046003775e+17,"Resignation | Job Dissatisfaction, Other",2012.0
+6.34761889415494e+17,Contract Expired | ,2012.0
+6.34761898333619e+17,Contract Expired | ,2012.0
+6.34761902772212e+17,Contract Expired | ,2012.0
+6.34761907884088e+17,Contract Expired | ,2012.0
+6.34761952688281e+17,Contract Expired | ,2012.0
+6.34761961458594e+17,Contract Expired | ,2012.0
+6.34761977288594e+17,Contract Expired | ,2012.0
+6.34761989628619e+17,Contract Expired | ,2012.0
+6.34762562611094e+17,Contract Expired | ,2012.0
+6.34762639225e+17,Termination | ,2012.0
+6.34762651950963e+17,Contract Expired | ,2012.0
+6.34762652611406e+17,Termination | ,2012.0
+6.34762679684244e+17,Retrenchment/ Redundancy | ,2012.0
+6.34762760512656e+17,Contract Expired | ,2012.0
+6.34763621955806e+17,Contract Expired | ,2012.0
+6.347636940725e+17,Contract Expired | ,2012.0
+6.34763735587969e+17,Resignation | Career Move - Private Sector,2012.0
+6.3476455024875e+17,Retrenchment/ Redundancy | ,2012.0
+6.34764565809556e+17,Contract Expired | ,2012.0
+6.34765328565337e+17,Contract Expired | ,2012.0
+6.34765334307187e+17,Contract Expired | ,2012.0
+6.34765399956275e+17,Contract Expired | ,2012.0
+6.34765421370181e+17,Contract Expired | ,2012.0
+6.34768690087369e+17,Retirement | NONE,2012.0
+6.34774030826094e+17,"Resignation | Career Move - Private Sector, Other",2012.0
+6.34774048206094e+17,Contract Expired | ,2012.0
+6.34774723180937e+17,"Resignation | Career Move - Private Sector, Other",2012.0
+6.34775905600156e+17,"Resignation | Career Move - Private Sector, Contributing Factors. Dissatisfaction",2012.0
+6.34776478226875e+17,Resignation | Travel,2012.0
+6.34779998192656e+17,"Resignation | Job Dissatisfaction, Other",2012.0
+6.34781625247656e+17,Resignation | Career Move - Public Sector,2012.0
+6.34781649658281e+17,Contract Expired | ,2012.0
+6.34781660507187e+17,Retirement | NONE,2012.0
+6.34781843688125e+17,"Resignation | Ill Health, Contributing Factors. Dissatisfaction",2012.0
+6.34782721630781e+17,Resignation | ,
+6.34783353732656e+17,Contract Expired | ,2012.0
+6.34786164810312e+17,Retrenchment/ Redundancy | ,2012.0
+6.34786182825625e+17,Resignation | Other,2012.0
+6.34786910427969e+17,Resignation | Other,2012.0
+6.3478773004125e+17,"Transfer | Career Move - Public Sector, Contributing Factors. Dissatisfaction",2012.0
+6.34788542900625e+17,Resignation | Maternity/Family,2012.0
+6.34789421680312e+17,"Resignation | Career Move - Private Sector, Contributing Factors. Dissatisfaction",2012.0
+6.34792964190156e+17,Transfer | Career Move - Public Sector,2012.0
+6.34793871139219e+17,Resignation | NONE,2012.0
+6.34794639635781e+17,Resignation | Career Move - Private Sector,2012.0
+6.34794857718438e+17,Resignation | Contributing Factors. Dissatisfaction,2012.0
+6.34799770843437e+17,"Resignation | Ill Health, Contributing Factors. Dissatisfaction",2012.0
+6.3480076201625e+17,Resignation | Other,2012.0
+6.34806706577344e+17,Retirement | Job Dissatisfaction,2012.0
+6.34807637421719e+17,"Resignation | Job Dissatisfaction, Interpersonal Conflict",2012.0
+6.348103446e+17,Retirement | Ill Health,2012.0
+6.34811041501719e+17,Resignation | NONE,2012.0
+6.34811063824844e+17,Resignation | Career Move - Private Sector,2012.0
+6.34811069432813e+17,Transfer | Other,2012.0
+6.34811182139844e+17,Resignation | ,2012.0
+6.34812805553281e+17,"Resignation | Job Dissatisfaction, Study",2012.0
+6.348129412025e+17,Resignation | ,2012.0
+6.34813581041094e+17,Resignation | Career Move - Private Sector,2012.0
+6.34816502884375e+17,Resignation | Career Move - Private Sector,2012.0
+6.3481720866375e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction, Other",2012.0
+6.34818651570937e+17,Resignation | Ill Health,2012.0
+6.34819687984062e+17,Retrenchment/ Redundancy | ,2012.0
+6.34819735079219e+17,Contract Expired | ,2012.0
+6.34823973840625e+17,Resignation | Career Move - Private Sector,2012.0
+6.34825003759375e+17,Resignation | Career Move - Self-employment,2013.0
+6.348250791775e+17,"Resignation | Ill Health, Contributing Factors. Dissatisfaction, Job Dissatisfaction",2012.0
+6.34825691015156e+17,"Resignation | Career Move - Private Sector, Other",2012.0
+6.34831756059375e+17,Resignation | Career Move - Private Sector,2012.0
+6.34834298665156e+17,Contract Expired | ,2012.0
+6.34837806454531e+17,Retrenchment/ Redundancy | ,2012.0
+6.34837810948906e+17,Retrenchment/ Redundancy | ,2012.0
+6.3483795741875e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction, Travel, Other",2012.0
+6.34837984851406e+17,Resignation | Other,2012.0
+6.34837985192031e+17,Retrenchment/ Redundancy | ,2012.0
+6.3484061865625e+17,Retrenchment/ Redundancy | ,2012.0
+6.34841254135625e+17,Contract Expired | ,2012.0
+6.348438490525e+17,Resignation | Other,2012.0
+6.34843856027656e+17,Contract Expired | ,2012.0
+6.34847509224219e+17,Retrenchment/ Redundancy | ,2012.0
+6.34849101152813e+17,Resignation | Career Move - Private Sector,2012.0
+6.34849850334844e+17,Retrenchment/ Redundancy | ,2012.0
+6.34852503880156e+17,Retrenchment/ Redundancy | ,2012.0
+6.34852685801719e+17,Resignation | Career Move - Self-employment,2012.0
+6.34854303307656e+17,Retirement | NONE,2012.0
+6.34854316269063e+17,"Resignation | Career Move - Private Sector, Other",2012.0
+6.348543995725e+17,Resignation | Other,2012.0
+6.34856190317969e+17,Transfer | Career Move - Public Sector,2012.0
+6.34858682290312e+17,Retirement | NONE,2012.0
+6.34860279552344e+17,Resignation | Maternity/Family,2012.0
+6.34860371426719e+17,Retrenchment/ Redundancy | ,2010.0
+6.34862107110312e+17,Retrenchment/ Redundancy | ,2012.0
+6.34865520912813e+17,Retrenchment/ Redundancy | ,2012.0
+6.34865649878438e+17,Retrenchment/ Redundancy | ,2012.0
+6.34866378202813e+17,Retrenchment/ Redundancy | ,2012.0
+6.34866546778594e+17,Resignation | Ill Health,2012.0
+6.34867257481719e+17,Resignation | NONE,2012.0
+6.34871701250312e+17,Contract Expired | ,2012.0
+6.34873325422656e+17,Resignation | Career Move - Private Sector,2012.0
+6.34874537800469e+17,"Resignation | Interpersonal Conflict, Other",2012.0
+6.34878466942188e+17,Resignation | NONE,2012.0
+6.34878467049844e+17,Resignation | NONE,2012.0
+6.34880266652344e+17,Resignation | Other,2012.0
+6.34882843171406e+17,Retrenchment/ Redundancy | ,2012.0
+6.34883154717187e+17,Termination | ,2012.0
+6.34883666203906e+17,Retrenchment/ Redundancy | ,2012.0
+6.3488371796875e+17,Retrenchment/ Redundancy | ,2012.0
+6.34883750980156e+17,Retrenchment/ Redundancy | ,2012.0
+6.34884416485938e+17,Resignation | Job Dissatisfaction,2012.0
+6.34885367273906e+17,Retrenchment/ Redundancy | ,2012.0
+6.3488615834625e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction",2012.0
+6.3488880224e+17,"Resignation | Career Move - Public Sector, Job Dissatisfaction",2012.0
+6.348897669125e+17,Transfer | Career Move - Private Sector,2013.0
+6.34889851025469e+17,Resignation | Career Move - Self-employment,2013.0
+6.34890472281094e+17,Resignation | Career Move - Private Sector,2012.0
+6.3489055184875e+17,Resignation | Career Move - Private Sector,2012.0
+6.34891433962031e+17,Contract Expired | ,2012.0
+6.34892336760312e+17,"Resignation | Career Move - Private Sector, Contributing Factors. Dissatisfaction, Job Dissatisfaction",2012.0
+6.34892361974219e+17,Resignation | Other,2012.0
+6.34892367870937e+17,Retrenchment/ Redundancy | ,2012.0
+6.34896725094062e+17,Retrenchment/ Redundancy | ,2012.0
+6.34896807785938e+17,Retrenchment/ Redundancy | ,2012.0
+6.3489743046875e+17,Retrenchment/ Redundancy | ,2012.0
+6.34897699783281e+17,Contract Expired | ,2012.0
+6.34902770430459e+17,Resignation | Career Move - Private Sector,2013.0
+6.34903651349219e+17,Resignation | Other,2012.0
+6.34904350033281e+17,Contract Expired | ,2012.0
+6.34907090363594e+17,Contract Expired | ,2012.0
+6.34907124987812e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction",2012.0
+6.34907791983427e+17,Retrenchment/ Redundancy | ,2012.0
+6.34907915528428e+17,Retirement | NONE,2013.0
+6.34907979681875e+17,Retrenchment/ Redundancy | ,2012.0
+6.34908638162969e+17,"Resignation | Career Move - Private Sector, Contributing Factors. Dissatisfaction, Interpersonal Conflict",2012.0
+6.34908664012656e+17,Retirement | Job Dissatisfaction,2013.0
+6.34908792602334e+17,Transfer | Other,2013.0
+6.34908806102646e+17,Retirement | NONE,2013.0
+6.34908831659365e+17,Resignation | Career Move - Self-employment,2012.0
+6.3490952044375e+17,Retrenchment/ Redundancy | ,2012.0
+6.34909553840625e+17,Retrenchment/ Redundancy | ,2013.0
+6.34910338362021e+17,Retrenchment/ Redundancy | ,2012.0
+6.34910521751084e+17,Retrenchment/ Redundancy | ,2012.0
+6.34912966024531e+17,Retrenchment/ Redundancy | ,2012.0
+6.34914735879219e+17,Retrenchment/ Redundancy | ,2012.0
+6.34915560890625e+17,Resignation | Career Move - Public Sector,2013.0
+6.34932864696524e+17,"Resignation | Career Move - Private Sector, Career Move - Self-employment",2012.0
+6.34933010519531e+17,Resignation | Other,2013.0
+6.34937260824531e+17,Contract Expired | ,2012.0
+6.34937512037812e+17,"Resignation | Career Move - Public Sector, Contributing Factors. Dissatisfaction",2013.0
+6.34938047980781e+17,"Resignation | Ill Health, Other",2013.0
+6.34938094787656e+17,Resignation | Contributing Factors. Dissatisfaction,2012.0
+6.34938351431992e+17,"Resignation | Career Move - Private Sector, Other",2013.0
+6.34939029600274e+17,Retrenchment/ Redundancy | ,2013.0
+6.34940601409024e+17,Resignation | Career Move - Private Sector,2013.0
+6.34940705807812e+17,Retrenchment/ Redundancy | ,2013.0
+6.34940842995156e+17,Retrenchment/ Redundancy | ,2013.0
+6.34944345534531e+17,Retrenchment/ Redundancy | ,2013.0
+6.34945048175625e+17,"Resignation | Maternity/Family, Other",2013.0
+6.34945136067187e+17,"Resignation | Career Move - Public Sector, Other",2013.0
+6.34951129892031e+17,Resignation | NONE,2013.0
+6.34951997495625e+17,Resignation | Career Move - Private Sector,2013.0
+6.34957134796993e+17,Transfer | Career Move - Public Sector,2013.0
+6.34958140455899e+17,Resignation | Career Move - Private Sector,2013.0
+6.34964112426563e+17,Resignation | Career Move - Private Sector,2013.0
+6.34969167674375e+17,"Resignation | Ill Health, Contributing Factors. Dissatisfaction, Travel, Other",2013.0
+6.34970182194493e+17,Resignation | Other,2013.0
+6.34973559823868e+17,Retrenchment/ Redundancy | ,2013.0
+6.34975184457305e+17,Resignation | Study,2013.0
+6.34975203429336e+17,Resignation | Career Move - Private Sector,2013.0
+6.34975260386719e+17,Retrenchment/ Redundancy | ,2013.0
+6.3497631483625e+17,"Resignation | Career Move - Private Sector, Contributing Factors. Dissatisfaction, Job Dissatisfaction",2012.0
+6.34977079348281e+17,Resignation | Career Move - Public Sector,2013.0
+6.34977844954805e+17,Contract Expired | ,2012.0
+6.34982066598317e+17,Resignation | Career Move - Private Sector,2013.0
+6.34982246838125e+17,"Retirement | Maternity/Family, Travel, Other",2013.0
+6.34985719186563e+17,Resignation | Other,2013.0
+6.34988299157536e+17,Contract Expired | ,2013.0
+6.3499166642113e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction, Interpersonal Conflict",2013.0
+6.3499269435863e+17,Resignation | Career Move - Private Sector,2013.0
+6.34992856383005e+17,Termination | ,2013.0
+6.34992898379375e+17,Termination | ,2013.0
+6.34995296716719e+17,Resignation | Interpersonal Conflict,2013.0
+6.34998528620661e+17,"Resignation | Career Move - Private Sector, Study",2013.0
+6.34999429878281e+17,Resignation | Other,2013.0
+6.35000251520036e+17,"Resignation | Career Move - Private Sector, Job Dissatisfaction",2013.0
+6.35000261847849e+17,Retrenchment/ Redundancy | ,2013.0
+6.35000328156094e+17,Contract Expired | ,2013.0
+6.35004545579724e+17,Retirement | NONE,2013.0
+6.35005511729063e+17,Resignation | Ill Health,2013.0
+6.3500553279375e+17,Resignation | ,2013.0
+6.35005552776094e+17,Retirement | NONE,2013.0
+6.35010751412813e+17,Retirement | Ill Health,2013.0
+6.35010822773594e+17,Resignation | Other,2013.0
+6.35012419902813e+17,Resignation | ,2013.0
+6.35012661372849e+17,Resignation | Job Dissatisfaction,2013.0
+6.35013239645781e+17,Retirement | Ill Health,2013.0
+6.35016601672188e+17,Retrenchment/ Redundancy | ,2013.0
+6.350170168575e+17,Retrenchment/ Redundancy | ,2013.0
+6.35017508419688e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction, Interpersonal Conflict, Other",2013.0
+6.35019417764844e+17,Resignation | Career Move - Public Sector,2013.0
+6.35021852425625e+17,Resignation | Other,2013.0
+6.35025280694687e+17,Resignation | Career Move - Private Sector,2013.0
+6.35027942448125e+17,Resignation | Ill Health,2013.0
+6.35030575197812e+17,Retrenchment/ Redundancy | ,2013.0
+6.35031425678438e+17,Resignation | Other,2013.0
+6.35035655232813e+17,Resignation | Career Move - Public Sector,2013.0
+6.35037423338906e+17,Resignation | Other,2013.0
+6.35037453598125e+17,Resignation | Career Move - Public Sector,2013.0
+6.35040151398125e+17,"Resignation | Contributing Factors. Dissatisfaction, Job Dissatisfaction",2013.0
+6.3504256585625e+17,Resignation | Career Move - Public Sector,2013.0
+6.35042809083906e+17,Termination | ,2013.0
+6.35047878104375e+17,Resignation | NONE,2013.0
+6.3504798376125e+17,"Resignation | Ill Health, Job Dissatisfaction",2013.0
+6.35049577295469e+17,Resignation | Ill Health,2013.0
+6.35049585605e+17,Resignation | Ill Health,2013.0
+6.35059151164844e+17,Contract Expired | ,2013.0
+6.35059949710781e+17,Resignation | Career Move - Private Sector,2013.0
+6.35065177031604e+17,Resignation | Career Move - Private Sector,2013.0
+6.35065277683125e+17,Contract Expired | ,2013.0
+6.35065973820625e+17,Resignation | Career Move - Private Sector,2013.0
+6.35066785175197e+17,Resignation | Career Move - Public Sector,2013.0
+6.35067716405666e+17,Resignation | Career Move - Public Sector,2013.0
+6.35070442972541e+17,Resignation | Other,2013.0
+6.35071153170979e+17,Contract Expired | ,2013.0
+6.35073030973791e+17,"Resignation | Career Move - Self-employment, Travel",2013.0
